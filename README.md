@@ -24,6 +24,8 @@ We apply this analysis to four major Indian stocks: Reliance, TCS, Infosys, and 
 1. Data Collection
 Retrieved 1-year OHLCV data (Open, High, Low, Close, Volume) for selected stocks using the yfinance API.
 
+![image alt]()
+
 Converted raw multi-level data into a tidy format.
 
 2. Exploratory Data Analysis (EDA)
