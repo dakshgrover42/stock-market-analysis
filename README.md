@@ -47,7 +47,7 @@ Generated a correlation heatmap of daily returns to understand stock relationshi
 Used Monte Carlo simulation to generate 10,000 random portfolios with varying weights.
 
 Calculated expected returns, volatility, and Sharpe Ratios for each.
-![image alt]()
+![image alt](https://github.com/dakshgrover42/stock-market-analysis/blob/main/Screenshot%20(18).png?raw=true)
 
 
 Plotted the Efficient Frontier to visualize the trade-off between return and risk.
