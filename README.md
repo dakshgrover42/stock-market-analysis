@@ -39,7 +39,7 @@ Visualized the distribution of returns using histograms and KDE (Kernel Density 
 4. Correlation Analysis
 Generated a correlation heatmap of daily returns to understand stock relationships and diversification potential.
 
-!image[image alt](https://github.com/dakshgrover42/stock-market-analysis/blob/main/Screenshot%20(19).png?raw=true)
+![image alt](https://github.com/dakshgrover42/stock-market-analysis/blob/main/Screenshot%20(19).png?raw=true)
 
 6. Portfolio Simulation
 Used Monte Carlo simulation to generate 10,000 random portfolios with varying weights.
