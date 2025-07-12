@@ -35,6 +35,7 @@ Plotted daily trading volumes to examine market activity.
 
 3. Return Calculations
 Computed daily percentage returns per stock.
+![image alt](https://github.com/dakshgrover42/stock-market-analysis/blob/main/Screenshot%20(17).png?raw=true)
 
 Visualized the distribution of returns using histograms and KDE (Kernel Density Estimation).
 
