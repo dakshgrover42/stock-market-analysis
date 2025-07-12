@@ -31,7 +31,7 @@ Converted raw multi-level data into a tidy format.
 2. Exploratory Data Analysis (EDA)
 Visualized Adjusted Close prices over time with 50-day and 200-day Moving Averages.
 
-![image alt]()
+![image alt](https://github.com/dakshgrover42/stock-market-analysis/blob/main/Screenshot%20(16).png?raw=true)
 
 Plotted daily trading volumes to examine market activity.
 
