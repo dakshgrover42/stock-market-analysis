@@ -1,4 +1,4 @@
-# Stock-Market-Analysis-using-Python
+# Stock-Market-Portfolio-Optimization-using-Python
 
 📊 Stock Market Analysis using Python
 Welcome to this end-to-end Stock Market Analysis project built using Python and essential data science libraries. This notebook demonstrates how to retrieve, process, visualize, and analyze real-world stock market data using Modern Portfolio Theory (MPT) concepts.
