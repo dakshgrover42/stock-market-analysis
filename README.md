@@ -24,35 +24,28 @@ We apply this analysis to four major Indian stocks: Reliance, TCS, Infosys, and 
 1. Data Collection
 Retrieved 1-year OHLCV data (Open, High, Low, Close, Volume) for selected stocks using the yfinance API.
 
-![image alt](https://github.com/dakshgrover42/stock-market-analysis/blob/main/Screenshot%20(14).png?raw=true)
-
 Converted raw multi-level data into a tidy format.
 
 2. Exploratory Data Analysis (EDA)
 Visualized Adjusted Close prices over time with 50-day and 200-day Moving Averages.
 
-![image alt](https://github.com/dakshgrover42/stock-market-analysis/blob/main/Screenshot%20(16).png?raw=true)
 
 Plotted daily trading volumes to examine market activity.
 
 3. Return Calculations
 Computed daily percentage returns per stock.
 
-![image alt](https://github.com/dakshgrover42/stock-market-analysis/blob/main/Screenshot%20(17).png?raw=true)
 
 Visualized the distribution of returns using histograms and KDE (Kernel Density Estimation).
 
 4. Correlation Analysis
 Generated a correlation heatmap of daily returns to understand stock relationships and diversification potential.
 
-![image alt](https://github.com/dakshgrover42/stock-market-analysis/blob/main/Screenshot%20(19).png?raw=true)
 
 6. Portfolio Simulation
 Used Monte Carlo simulation to generate 10,000 random portfolios with varying weights.
 
 Calculated expected returns, volatility, and Sharpe Ratios for each.
-
-![image alt](https://github.com/dakshgrover42/stock-market-analysis/blob/main/Screenshot%20(18).png?raw=true)
 
 
 Plotted the Efficient Frontier to visualize the trade-off between return and risk.
